@@ -1,0 +1,45 @@
+y z
+
+2-[A |---| 4 |=
+fa AT ee a composition or
+; res
+
+a ee ee
+Fig.3b A graphical representation of a more complicated two
+object system
+Definition
+A T-system is a diagram in O7, that is, a
+functor S:D + Or, where D is called the
+index category or diagram scheme.
+
+The intended interpretation is: when two
+morphisms meet at an object, they shall
+display within that object identical
+representations of the objects at their
+domains. The conventions and consequences
+of this interpretation can be developed
+without category theory; we hope the
+translation in Fig.4 of the graphs in
+Fig.3 suffice.
+
+The formalisation of the behavior of
+systems in the next section makes it
+explicit within our categorical framework.
+
+We have introduced specific objects
+(X, ¥, 2, W in Fig.4) to describe the
+allowed forms of flowing information; thes«
+are the domains of the 'system variables!
+(x,y,2,w in Fig.3), usually left implicit.
+
+The definition of T-system depends in no
+essential way on properties of T-objects,
+although the intended interpretation does.
+Absolute generality can be achieved by
+replacing Oy by an arbitrary, but prefer-
+ably complete, category 0 of suitable
+interconnectible objects, called objects.
+Definition
+A system is a diagram in O, that is, a
+functor S:D + 0, where D is the index
+category or diagram scheme.

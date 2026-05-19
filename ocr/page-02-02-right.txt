@@ -1,0 +1,63 @@
+reals R*, or the nonnegative integers N;
+choosing space-time as parameter, T might
+be a submanifold of R*. These examples
+suggest T may have nontrivial structure,
+but for present purposes it suffices to
+assume T is a set with a family I of
+distinguished subsets, usually some sort
+of intervals in T.
+
+If X and Y are sets, let PF[X,Y] denote
+the set of all partial functions from X to
+Y, that is, functions to Y from a subset
+of X, and let df denote the domain of
+f € PF[X,Y]. Defining composition the
+obvious way with inverse image, there
+results a category of partial morphisms of
+sets. This construction can be duplicated
+in many categories.
+
+Definition
+
+A T-object is a subset Sof PF[T,A] such
+that f€ A= df € 1; thus there is a
+domain map d: A> I.
+
+Here A is some set of 'attributes' over
+which our observations range. We explicate
+the notion of object through the totality
+of potential parameterized observations of
+its attributes. There is no need to posit
+ideal Platonic objects of which we gain
+imperfect knowledge through observation,
+although there is need of abstraction and
+idealization in the construction of the
+totality from fragments of observations.
+The detailed study of the manner of con-
+struction of objects from incomplete data
+belongs to the various sciences, but
+perhaps some useful generalities can emerge
+from the framework of this paper. Now some
+examples of T-objects:
+
+1. A. capacitor. Suppose we control the
+voltage v across a capacitor with a cali-
+brated dial, and measure the resulting
+current u. Let A = R%, T = R+, and I = the
+set of finite open intervals in R*. Notice
+f © PF[R*,R2] can be viewed as a pair
+<v,u> of functions R* + R with the same
+domain, The collection of observations we
+might have gotten is
+
+A= {<v,w|v,u:I + RF are differentiable
+
+on I € 1, and u = ov}
+
+2. A finite state machine. Suppose a
+machine has input alphabet X, output alpha-
+bet Y, state set S, state transition func-
+tion A:XxS +S, and output function
+6:S + Y, Then T is discrete time, starting
+at zero, i.e. N, I is the set of finite
+intervals in N, and the set of observations

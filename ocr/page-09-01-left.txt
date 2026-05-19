@@ -1,0 +1,43 @@
+Fig.12b Result of the interconnection of 12a
+
+The behavior of an interconnection of
+systems is the (inverse) limit of the
+result. Two interconnections are equivalent
+if they have isomorphic behavior.
+
+It is important to calculate the behavior
+of an interconnection from the behaviors of
+its component systems. The result below
+shows how.
+
+Theorem 5
+Let S:X + D(O) be an interconnection of
+systems Sy:Dy + 0, for x € X. Then
+
+lim(1im S) = lim(lim 8.)
+
+x
+
+The righthand side is the (inverse) limit
+of the diagram of behaviors of systems Sy»
+whose morphisms are those induced on the
+behaviors by the morphisms x of X. The
+lefthand side is just the definition of
+the behavior of the interconnection. The
+Theorem says how to compute it from the
+lim S,'S.
+
+One can obtain various canonical forms
+for systems. For example, every system is
+equivalent to an interconnection of sub-
+systems with (at most) two objects and one
+morphism. By adding some objects, the
+number of morphisms at (meaning either to
+or from) each object in the equivalent
+system can be made three or less. If 0 is
+‘normal', the morphisms can be restricted
+to monics and epics, by adding images.
+
+The considerations of this section can
+be extended hierarchically by letting 0 be
+0(0), or more generally, defining

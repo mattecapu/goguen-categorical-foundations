@@ -1,0 +1,75 @@
+and whose morphisms arise similarly from
+those of $(V). If 0 is the category of
+
+T-systems with structure §$(V), then 0(0)
+
+is the category of fuzzy systems. It has
+
+been argued [1], [4], that V-sets represent
+inexact concepts and are the building
+blocks of inexact structures; it has also
+been argued [11] that fuzzy systems of
+various sorts (including fuzzy algorithms
+
+{12]) are important for understanding such
+
+pervasive phenomena as optimization in an
+
+inexact environment,
+
+Our notion of fuzzy system, including
+the hierarchies of system structure and
+arbitrary T and I is much more general
+than anything we know in the literature.
+And we hope more applicable, because it is
+more structured. For example, fuzzy systems
+can probably model word association nets
+of the sort metaphorically described by
+Quine [8], p 12. Contemplate
+Poly, 8 (0,1)
+
+Bibliography
+
+1. GOGUEN, J.A., 'L-fuzzy sets', J. math.
+Analysis Applic., V18(1), pp 145-174
+(April 1967).
+
+2. GOGUEN, J.A., 'The logic of inexact
+concepts', Synthese, V19, pp 1-48
+(1969).
+
+3. GOGUEN, J.A., 'Categories of V-sets',
+to appear in Bull. Amer. Math. Soc.
+
+4. GOGUEN, J.A., ‘Representing inexact
+concepts', in preparation.
+
+5. MACLANE, S., 'Categorical algebra',
+Bull. Am, math. Soc., V71(1), pp 40-
+106 (1965).
+
+6. MESSAROVIC, M., 'Foundations for a
+general systems theory', Views on
+General Systems Theory, pp 1-24, Wiley
+(1964).
+
+7. MITCHELL, B., 'Theory of Categories',
+Academic Press (1965).
+
+8. QUINE, W.V.O., ‘Word and Object', The
+Technology Press of M.I.T. and Wiley
+(1960).
+
+9, WINDEKNECHT, T.G., "Mathematical sys-
+tems theory: causality', Math. Syst.
+Theory, V1(4), pp 279-288.
+
+10. ZADEH, L.A., and DESOER, C.A., 'Linear
+systems theory', McGraw-Hill (1963).
+
+11, ZADEH, L.A., 'Fuzzy sets and systems',
+Proc. Symp. on Systems Theory, Poly-
+technic Press, pp 29-37 (1965).
+
+12. ZADEH, L.A., 'Fuzzy algorithms', Inf.
+Control, V12(2), pp 94-102 (1968).

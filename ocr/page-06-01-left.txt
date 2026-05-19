@@ -1,0 +1,32 @@
+To model one system by or in another, we
+want morphisms of diagrams, and a category
+of diagrams (or systems) in 0.
+
+Definition
+
+A morphism from S:D + 0 to S':D' +O isa
+pair <F,n>, where F:D + D' is a functor
+and n:S'F + S is a natural transformation,
+See Fig.5.
+
+Denote by D(0) the category of diagrams
+in O with these morphisms. This category
+is similar to the category of fuzzy sets
+with values in 0 [3], except the trans-
+formation n goes the opposite way.
+
+Theorem 3
+D0(0) is cocomplete (or complete or finitely
+cocomplete or complete) if O is complete
+(or cocomplete, or finitely complete or
+cocomplete).
+4. Behavior of systems
+We want to know of a system how it behaves
+as an object when hooked up and let run,
+We develop the concept through examples in
+Oy. For simplicity, assume the structure
+category is Ens, the category of sets.
+Fig.6a A system of two independent objects 1 & B
+AxB
+Fig.6b The system of 6a with its behaviour and projections
+126

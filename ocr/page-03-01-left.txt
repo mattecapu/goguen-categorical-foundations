@@ -1,0 +1,60 @@
+we might have collected is
+x € PF(N,X], y © PF[N,Y], )
+a - bene: such that
+_ =dy =[n,m] € I,
+: )" ds = [n-1,m], y(t) = 6(s(t))
+and s(t) = A(x(t),s(t-1))
+for t € [n,m].
+3. Temperature of a stone slab. Suppose we
+observe the temperature of a stone as a
+time function over certain parts of its
+surface. Denote the surface T, a 3-dimen-
+sional surface-time manifold in space-time
+R*, Then a temperature observation is a
+partial function T + R, with domain, say,
+an open set in T. The potential observa-
+tions are the solutions of a certain
+partial differential equation. The purpose
+of this example is to show there are
+interesting T's which are not merely semi-
+groups, or simply ordered sets; so we omit
+distracting details.
+
+The set A could also have relevant struc-
+ture; it might be a product of sets of
+individual attributes; it might have a
+topological or differentiable structure
+which the functions in “ respect; or
+perhaps an algebraic structure. In
+example 1 the linear structure of R? and
+the fact that the pairs <v,u> satisfy a
+linear relation give Sa sort of linear
+structure. In examples 1 and 3 the natural
+differentiable structures of T and A make
+the differentiability of the functions
+meaningful. What concerns us most now is
+the resulting structure of A, not how it
+arises; so we do not formalize these con-
+siderations, but pass on.
+
+x can be viewed as an indexed family
+{ X;|Z € 1}, where
+A, = d 11 = {f € Aldf = I}. This makes
+A a graded object of total functions,
+which is more convenient in many ways. In
+example 1, each SA; is a real linear space
+of functions with total domain I, From
+here on we assume each SA; is an object in
+a concrete category S, called the structuré
+category; so each Ar is in particular a
+set, and morphisms are in particular func-
+tions.
+
+Definition
+
+A morphism f: A> 8 of T-objects is an
+indexed family {fp2 Ay > cmt of
+S-morphisms,
+
+More abstractly, f is a morphism of
+I-graded objects of S; less abstractly, f

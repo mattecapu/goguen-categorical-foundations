@@ -1,0 +1,60 @@
+Systems exhibit dynamic behavior; this is
+represented by a higher dimensional time-
+parameterized static system. Our concept
+of system emphasizes ‘system theoretic'
+structures such as interconnection and
+level, rather than generalized automaton
+structures such as state and transition.
+
+The content can be summarized as
+follows: T-objects model a collection of
+observations, and are in particular
+presheaves. They motivate our constructions
+on a completely arbitrary category 0 of
+objects. A system is a diagram in 0. The
+behavior of a system is its inverse limit.
+Two systems are equivalent if they have
+isomorphic behavior. An interconnection of
+systems is a direct limit in the category
+of diagrams. Behavior and interconnections
+are pleasantly interrelated. A hierarchical
+system structure results from considering
+higher order diagram categories. There are
+several applications of the form: an inter-
+connection of nice systems is nice. Fuzzy
+systems are discussed.
+
+It is necessary to assume some familiar-
+ity with categorical algebra; the standard
+references are [5] and [7]. We do not use
+much more than the definitions of direct
+and inverse limit, natural transformation,
+and presheaf. We have omitted proofs.
+
+This paper is more a program — that is,
+a reasonably well matched set of methods
+and problems — than it is a finished work.
+The completion of the program is a long-
+term project. Our approach grew in part
+out of discussions with Hans Bremermann,
+Saunders MacLane, Christopher Longyear,
+Steve Soule, Victor Yngve, and Lofti Zadeh,
+all of whom we would like to thank. The
+work is affectionately dedicated to the
+mysteries of human existence.
+
+2 = T-objects
+
+This section is unnecessary for the general
+theory to follow, except as motivation. It
+is necessary for the applications of
+Sections 5 and 7 and is of independent
+interest as an algebraic approach to
+epistomology and entitation (see Quine
+[8]).
+
+We formalize the notion of a collection
+of observations of an object. Assume the
+observations parameterized over a space T,
+generally time. T might be the nonnegative
+122

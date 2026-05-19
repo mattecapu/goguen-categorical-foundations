@@ -1,0 +1,60 @@
+Notice that the earlier view of a T-object
+as a graded object can also be phrased as
+a presheaf, this time SA:|I| > S.
+
+Definition
+
+A T-object Wis closed under restriction,
+abbreviated CUR, iff it is a presheaf of
+functions; i.e. iff IG@d and
+
+fe Ay Flr e A.
+
+T-objects closed under restriction form
+a subcategory of Or; the morphisms are the
+natural transformations in the functor
+
+category [I,S], families {frlZ € I} which
+commute with restriction. See Fig.2. It
+is clear then that 07 is a full subcategory
+of [|I|,S] (we will write Oy s if we want
+to emphasize the role of S) and CUR T-
+objects form a full subcategory of [I,S].
+Actually, O7 is equivalent to [11,81
+because we can always find an As.t.
+
+Ar = Ay, for any A; € |S|, by choosing a
+large enough set A, and endowing appropri-
+ate sets of functions I + A with the §
+structure of A;.
+
+f
+J
+yj fT
+I oh |
++>
+I fr B,
+
+Fig.2 CUR morphism
+Theorem 1
+Or,s is equivalent to {|1|,8]. Similarly,
+the category of CUR T-objects is equivalent
+to [I,S].
+
+For most purely categorical purposes, it
+suffices to know the category up to equi-
+valence. In particular, we have the follow-
+ing corollaries of Theorem 1.
+
+Theorem 2
+
+If S is complete (or cocomplete, or finitel)
+complete or cocomplete) so are OF s and the
+category of CUR T-objects. ?
+
+By complete, we mean that every diagram
+has an (inverse) limit. Recall the method
+of calculation of the (inverse) limit: it
+is the intersection of certain equalizers,
+as a subobject of the product of all the
+124

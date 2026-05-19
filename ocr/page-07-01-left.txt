@@ -1,0 +1,42 @@
+Fig 8b Behaviour of 8a
+
+3. A finite state machine can be repres-
+ented by a system diagram like that in
+Fig.8. X and ¥ are the objects of input
+and output observations, 8 is the object
+of state observations, and 6 and A are
+respectively the objects for the state
+transition and output functions. T is N.
+The behavior will be those input-state-
+output triples which can occur for these
+5 and 4. Actually, 6 and A give, respect-
+ively, those input-state and state-output
+pairs of observations (as functions of
+time, remember) which can occur, together
+with projections to the components which
+do occur. In this same spirit B is the
+object of triples, together with pro-
+jections to pairs and to individuals. See
+Fig.8b. The structure category is finite
+sets; notice it is only finitely complete.
+
+In each case, the behavior is the
+(inverse) limit of the system diagram with
+the natural projections. The interpretatior
+of the diagrams (Section 3) together with
+the remarks on the calculation of the
+limit following Theorem 2 (Section 2) show
+that this is true in general: the limit
+picks out just those tuples of mutually
+consistent observations among the system's
+objects.
+
+Definition
+The behavior of S € D(0) is lim sé0,
+
+We have returned to the general case
+where 0 is an arbitrary (preferably com-
+plete) category. Notice behavior is a
+contravariant functor,
+
+lim: D(0)°P — 0

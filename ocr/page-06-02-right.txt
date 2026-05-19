@@ -1,0 +1,24 @@
+1. The first nontrivial case is two com-
+pletely independent observations, repres-
+ented by objects Sand $ (see Fig.6a).
+Because we have no knowledge of which
+observations in SA are paired with obser-
+vations in & (if any), as far as we know,
+all pairings are possible, and the behavio:
+of the system is described by A *B, This
+with its projections to 9% and §$ forms a
+larger system (see Fig.6b).
+
+2. The next interesting case is two
+simultaneous observations. Here one has
+objects for the two observables, and
+another for observations of the pairing or
+simultaneity. This object ® consists of
+just those pairs which occur together.
+
+See Fig.7. There are projections from ®,
+giving the components of the pairs. The
+behavior is clearly described already by
+R.
+Fig.7 Two simultaneous observation system
+Fig.8a Finite state machine system diagram

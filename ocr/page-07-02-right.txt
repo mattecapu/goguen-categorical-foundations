@@ -1,0 +1,50 @@
+because morphisms in D(0) were defined
+appropriately. In particular, behavior
+restricts to a functor lim: [D,0]°P > 0,
+for each diagram scheme D, which commutes
+with limits, for example products, because
+it is an adjoint functor.
+
+Definition
+
+Systems S,S' € D(0) are equivalent if they
+leave isomorphic behavior.
+
+Consider the hypothesis that some
+observed behavior (say example 2, i.e.
+Fig.7) came from a finite state machine
+(say example 3, Fig.8). Technically, the
+hypothesis is that the behaviors are iso-
+morphic, i.e. the systems equivalent. The
+inclusion of the diagram of Fig.7 in that
+of Fig.8b induces a morphism of their
+limits (the limit of Fig.8b is just B
+again), in the opposite direction. The
+hypothesis is that this is an isomorphism.
+
+Another application is in showing that a
+system whose objects have some property
+also has that property. For example, is a
+system of linear objects linear? The
+method is to show the (sub-) category of
+objects with that property is complete
+(finite completeness may be appropriate
+for examples such as 3); then the behavior
+is in the category. It suffices to check
+products and equalizers, which is often
+easy. A generalization of this application
+is discussed in more detail in Section 7.
+5. T-relations
+A particularly interesting special case is
+diagrams of T-objects like Fig.7, with the
+additional restriction that ®be a sub-
+object of & * ¥ such that the projections
+commute; i.e. the maps from ®to X and
+Y are restrictions of the projections
+from X x ¥ to X and ¥Y (respectively).
+See Fig.9. Call such a system a T-relation.
+
+xXx Y
+/ Re \
+Fig.9 A T relation R,
+127

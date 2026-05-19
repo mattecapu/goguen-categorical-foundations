@@ -1,0 +1,58 @@
+objects involved (see [7], p 47); and for
+suitable concrete categories, it is the
+subobject of the (same) product consisting
+of all points whose coordinates form a
+‘consistent net' under the mappings in the
+defining diagram. This will be important
+for justifying our definition of behavior
+(see Section 4).
+
+The notion of a T-object, with its
+arbitrary T and I, and associated structuré
+category, is concrete, suggestive, and
+useful, though much more general than any-
+thing in the literature we know of. It is
+closely related to ideas of Zadeh [10],
+Messarovié [6], and Windeknecht [9], from
+which we have drawn inspiration. We
+believe it solves the problem of how to
+introduce specific structures conveniently
+into general systems theory. However,
+systems of T-objects are more general, and
+the completely arbitrary systems of the
+next section are still more general.
+
+3. Systems
+
+A T-system should be a collection of T-
+objects somehow connected together. Such a
+thing is usually represented graphically
+as a set of 'black boxes' with some inputs
+and/or outputs connected to others. An
+appropriate formalisation is a directed
+graph with objects at nodes, and arrows
+for input and/or output lines indicating
+the flow of information (see Fig.3). For
+highly interactive systems a distinction
+between input and output may not make much
+sense, so unordered graphs are appropriate.
+There is also a need to introduce
+'imaginary' objects which combine or split
+inputs or output (the nodes labeled just -
+in Fig.3). These objects may function
+differently in different contexts; e.g.
+
+as "OR's'' in logic circuits; as 'equali-
+zers' of voltage levels or 'dividers' of
+currents in electrical circuits; and as
+'multipliers' or 'reproducers' of signals
+in general systems diagrams. This can lead
+to troublesome ambiguities. In addition,
+rules are often imposed to prohibit diffi-
+cult to interpret situations, such as
+'dangling' inputs or outputs. Sometimes
+'feedback' causes difficulties.
+
+In this section we propose a formalism
+for systems which seems simpler and more
+natural, and has technical advantages.

@@ -1,0 +1,62 @@
+tions: if T = N, then G = N and g(t)=g+t,
+for g €G and t € T. It suffices to check
+products and equalizers, and these are
+essentially obvious.
+
+5. An interconnection of T-relations is
+equivalent to a T-relation. This applica-
+tion is of a different character from
+these previous because equivalence is
+asserted and the properties in question
+are system properties not derived from
+object properties. The notions of intercon.
+nection and equivalence here also differ
+from those given earlier.
+
+Definition
+
+Let $:D + 0 and let Dp& D. Then the
+behavior of S modulo D, is lim S together
+with its projections to objects in Dp. It
+is a diagram, in fact a cone over Dp, in 0.
+DEFINITION
+
+Let S;:D; + 0, t=1,2 be systems and let
+D,2 be embedded in D, and Dg. Then 8, and
+Sp are equivalent modulo D,2 (and the
+embeddings) iff they have isomorphic (in
+0(0)) behaviors modulo Dj9.
+
+The diagram subscheme appropriate for
+T-relations is 2, the two point discrete
+category.
+
+6. An interconnection of causal
+T-relations is causal. Let 6:1 + 2! be a
+boundary or successor operator on subsets
+of T. If A+ R +B is the graph of a
+morphism in Oy, call it causal if
+f= &U,v>, f' = <u',v'>=eET,
+df=df'=I€1,Jé1, wal,
+floa=f'fa—eF for =r’ fos. An arbi-
+trary T-relation A+ ® + B is causal
+iff it is a union of causal sub-T-relations
+which are graphs of morphisms in O7. This
+definition is based on Windeknecht [9].
+
+7. Fuzzy systems. Let V be a complete
+lattice, and let 8(V) be the category of
+V-sets, whose objects are functions X + V,
+where X is a set, and whose morphisms
+
+A-+B are functions f:X + Y such that
+A(x) < B(f(x)) for all x € X; this category
+is complete and rather like the category
+of sets. (see [1] or [3] for more details).
+38 (V) is not concrete as defined, but it
+is isomorphic (not just equivalent) to the
+concrete category whose object correspond-
+ing to A:X + V is the subset of X x V of
+points less than or equal to (in the
+product ordering of pT Me) the graph of A,
+130

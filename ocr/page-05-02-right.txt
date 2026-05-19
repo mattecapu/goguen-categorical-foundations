@@ -1,0 +1,15 @@
+Fig.4a The categorical diagram for the system of Fig.3a
+Here the object SV has projections of its
+interior states to an object X of inputs and
+an object Y of outputs, while B has projections
+to &Y as inputs and Z as outputs. It is intended
+that the outputs of X be constrained to equal the
+inputs of B , as points in Y.
+Fig.4b The categorical diagram for the system of Fig.3b
+F
+De —_—_—_—_—__"> D'
+Stp
+Ss of Ss!
+0
+Fig.5 A system morphism
+125

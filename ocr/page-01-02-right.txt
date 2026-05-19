@@ -1,0 +1,30 @@
+SS
+I believe categorical algebra can operat:
+at the highest level of generality and
+still yield interesting results in systems
+theory. Although some structure is neces-
+sary for interesting results, generality
+is achieved by treating structure as a
+parameter. It seems that this theory is
+absolutely general systems theory, in the
+sense that I cannot imagine any system
+type which would not fit in its framework.
+I believe other systems theories have
+difficulty with examples in Section 2,
+although these examples hardly approach
+the potential of exotic systems. While
+this work has not progressed far in a
+strictly practical direction, I think the
+relevance to philosophical and methodologi
+cal questions will be clear. Eventually
+applications to operating systems, state
+diagrams, Turing machines, and other infor
+mation science basics should be included
+(linear systems and automata are discus-
+sed). We hope that this material will be
+useful in explaining, organizing, and
+exploiting the many parallels between
+various disciplines. The hierarchical
+structures of Section 6 should be useful
+for programming and biological systems.
+121

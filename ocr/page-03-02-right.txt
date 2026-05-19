@@ -1,0 +1,56 @@
+is a function f: %+ 4% which preserves
+domains (see Fig.1) and yI € I restricts
+to an S-morphism &; + $r. Now some
+examples of morphisms.
+4—* 4
+»N A
+€
+
+Fig.1 T — object morphism
+
+1. The above R*+-object containing obser-
+vations on the capacitor has projections
+onto R*t-objects containing respectively
+voltage and current observations, defined
+by <v,w> ® v and <v,u> » u. These maps are
+continuous, differentiable, and linear. A
+linear change of scale for voltage measure-
+ment is described by a map of the form
+<v,u> av, for a € R. All such maps
+preserve domains. Nonlinear or discontinu-
+ous maps are conceivable, but not particu-
+larly appropriate. Here the structure
+category S is all real linear spaces, or
+better all linear topological spaces.
+Objects and maps of this general type are
+the subject matter of linear systems
+theory.
+
+2. For the finite state machine, the
+projections <v,y> * x and <x,y> » y define
+morphisms of N-objects. More generally,
+changes of alphabet f:X + X', g:Y + Y'
+define morphisms <x,y> » <f(x),g(y)>,
+<x,y> » f(x), or <c,y> » g(y). Here S$ is
+the category of finite sets.
+
+The composition of two morphisms of T-
+objects, when defined, is a morphism of
+T-objects, and there results a category Or
+of all T-objects, to which we return in a
+moment.
+
+I has a natural partial ordering (by
+inclusion) which makes it a category with
+at most one arrow in each [I,J], the inclu-
+sion if IS&Jd. For objects arising in
+nature, we expect that if f € Wy and
+I GJ, then the restriction f|I € Sy.
+More formally, we expect A can be viewed
+as a functor M:1°? + § which maps the
+inclusion IG@J to the restriction map
+A, + Ar. This means Sis a presheaf of
+functions; there is no general reason to
+suppose it a sheaf, though this can happen
+
+123

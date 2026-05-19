@@ -1,0 +1,59 @@
+p7(0) = D D%-1(0) , D°(0) = 0. Theorems 4
+and 5 apply at any level. It should be
+useful to consider the category
+D°(0) = lim 0”(0), the limit being in Cat.
+n
+Similarly we can form Dg (0) and Do (0). We
+believe these categories will be useful in
+studying programming languages or other
+hierarchically organized systems. The
+functor lim extends to the direct limits
+Dp(0) or D’ (0).
+7. Applications
+Our first applications have the form: an
+interconnection of systems of type T is
+type T. This is proved by showing the
+category of type T objects is complete. It
+follows that systems, and results of inter-
+connections, have type 7 behavior. There is
+really no need for all objects to be type
+fT as long as each system has type T behavi-
+or. Our categorical machinery effects a
+great simplification for such problems,
+Now some examples; we refer to Section 2
+for background.
+
+1. An interconnection of linear systems
+is linear. A general setting for this
+result is as follows: let I be a fixed
+category (think of intervals in some T,
+partially ordered by inclusion), and let
+S be Lin, the category of linear spaces,
+say over R. Let O be the functor category
+[I, Lin]. It is complete because Lin is.
+More concretely one could consider OF Lin
+for some particular T. ?
+
+2. An interconnection of continuous sys-
+tems is continuous. Proceeding as above,
+let S be Top, the category of topological
+spaces. Then [I, Top] is complete.
+
+3. An interconnection of differentiable
+systems is differentiable. Consider the
+(complete) category of differentiable mani-
+folds.
+
+4. An interconnection of invariant sys-
+tems is invariant. Let G be a semigroup of
+endomorphisms of T such that the induced
+map on subsets restricts to an endomorphism
+of I, Let I, be a subset of I of distingui-
+shed intervals, for example, in R*, those
+of the form (0,t). Then a T-object is
+G-invariant iff each Sz is of the form
+gz, some g € G and J € Io, where
+g Az = {fog:g(J) + Alf € Hy}. The first
+examples which come to mind are transla-
+
+129

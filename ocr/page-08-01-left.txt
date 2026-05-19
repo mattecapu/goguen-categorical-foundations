@@ -1,0 +1,47 @@
+Its behavior is ®. T-relations form a
+category with the morphisms described in
+Section 3, but more interestingly
+T-relations can be made the morphisms of a
+category whose objects are T-objects, by
+defining the composition of X + R+Y
+and ¥ + 8 + 2 to be the behavior of the
+interconnection (see Fig.10), with pro-
+jections to the terminals X and Z.
+x a Z
+
+Bek
+Fig.10 The composition of T relations
+
+So 8° ®is a subobject of % xZ, and
+xX +8 0 ®-+ Z is a T-relation.
+
+This category of T-relations has products:
+the product of X and Y is the coproduct
+(disjoint union) in 07; a product of mor-
+phisms is also a coproduct in O7, in the
+sense that 8 1 ® as an object is 8 u ®
+in Or.
+
+6. Interconnection of systems
+
+If general systems theory is ‘about! any-
+thing, it is about the interconnection of
+systems, and the resulting behavior. The
+manipulations of the previous section give
+some indication of the importance of these
+considerations. The very general results
+of this section are the core of this paper.
+
+If two systems (diagrams in 0) have a
+common .subsystem, we can form their ‘union'
+or interconnection. Different systems may
+result from the same two systems by
+specifying different subdiagrams as common.
+The common subdiagram is often a collection
+of objects at terminals hooked together.
+The restriction to two systems is
+inessential. The proper formalization is
+the direct limit of diagrams, But not every
+diagram of diagrams can arise.
+
+128

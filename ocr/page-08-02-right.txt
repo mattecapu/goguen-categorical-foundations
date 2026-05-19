@@ -1,0 +1,47 @@
+Definition
+
+An interconnection is a diagram
+
+S:X + D(0), all morphisms <I,n> of which
+consist of an inclusion I of diagram
+schemes, and have monic values nx of the
+transformation n. Denote the subcategory
+of D(0) with morphisms as described above
+by Do(0), and call it the interconnection
+category. Properties of 09(0) or some
+close relative should be worthy of future
+study.
+
+We speak of an interconnection S of sys-
+tems Sx, X €|X].
+
+Definition
+
+The direct limit in D(0) of a diagram S of
+diagrams will be the result of S.
+
+Theorem 4
+
+If 0 has intersections and inverse images,
+any interconnection has a result.
+
+So systems of reasonable objects are
+always interconnectable. For example, let
+S) and So be systems, interconnected with
+no common objects or morphisms. The result
+is the coproduct, S; u S29, whose diagram
+in the disjoint union of those of S; and
+So. See Fig.11. A more specific example
+appears in Fig.12.
+
+Sy S,
+Fig.11a8 Disjoint union diagram for two systems S) & So
+8) So
+8) a So
+Fig.11b Result of interconnection of 11a, with inclusions
+Y Si2
+A @) N a
+; db AN
+(s) S2
+Fig.12a An interconnection of S} and S2 with common subsystem
+Si2

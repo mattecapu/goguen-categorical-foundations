@@ -1,0 +1,35 @@
+systems theory
+
+J. A. GOGUEN
+
+/BM Thomas Watson Research Center,
+
+New York, USA
+
+1, Introduction
+There is a confusion of terminology which,
+if beyond our ability to dispel, merits
+some attention. The phrase 'general systems
+theory' often designates rather nonmathema-
+tical investigations in the philosophy and
+methodology of science. By contrast,
+‘linear systems theory' usually designates
+a well developed branch of engineering
+mathematics, now employing techniques such
+as Schwartz distribution theory (see [10]).
+Between these is 'mathematical systems
+theory' which tries to approach some prob-
+lems of general systems theory through
+mathematical models. As yet the technique
+of mathematical systems theory has not
+developed much beyond set theory. Mathema-
+tical systems theory is sometimes called
+general systems theory, and almost anything
+is called systems theory. This may not be
+inappropriate, because almost anything can
+be viewed as a system. In addition a
+distinction between formal and informal
+(possibly general) systems theories is
+sometimes made, parallel to the distinction
+between pure and applied mathematics.
+Sometimes informalists oppose formalisms.
